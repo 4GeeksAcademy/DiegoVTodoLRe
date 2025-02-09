@@ -1,0 +1,7 @@
+.li-none span{
+    opacity: 0;
+}
+
+.li-none:hover >span{
+    opacity: 100%;
+}
